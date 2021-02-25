@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/perisrai/perisrai.github.io/portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/perisrai/perisrai.github.io/portfolio/static/js/main.b88ce0cf.chunk.js",
+    "main.js.map": "/perisrai/perisrai.github.io/portfolio/static/js/main.b88ce0cf.chunk.js.map",
+    "runtime-main.js": "/perisrai/perisrai.github.io/portfolio/static/js/runtime-main.9296d357.js",
+    "runtime-main.js.map": "/perisrai/perisrai.github.io/portfolio/static/js/runtime-main.9296d357.js.map",
+    "static/js/2.8c5fb647.chunk.js": "/perisrai/perisrai.github.io/portfolio/static/js/2.8c5fb647.chunk.js",
+    "static/js/2.8c5fb647.chunk.js.map": "/perisrai/perisrai.github.io/portfolio/static/js/2.8c5fb647.chunk.js.map",
+    "static/js/3.2a720f23.chunk.js": "/perisrai/perisrai.github.io/portfolio/static/js/3.2a720f23.chunk.js",
+    "static/js/3.2a720f23.chunk.js.map": "/perisrai/perisrai.github.io/portfolio/static/js/3.2a720f23.chunk.js.map",
+    "index.html": "/perisrai/perisrai.github.io/portfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/perisrai/perisrai.github.io/portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8c5fb647.chunk.js.LICENSE.txt": "/perisrai/perisrai.github.io/portfolio/static/js/2.8c5fb647.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/perisrai/perisrai.github.io/portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9296d357.js",
+    "static/js/2.8c5fb647.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b88ce0cf.chunk.js"
+  ]
+}
