@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/perisrai.github.io/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/perisrai.github.io/static/js/main.b88ce0cf.chunk.js",
-    "main.js.map": "/perisrai.github.io/static/js/main.b88ce0cf.chunk.js.map",
-    "runtime-main.js": "/perisrai.github.io/static/js/runtime-main.1763f0b6.js",
-    "runtime-main.js.map": "/perisrai.github.io/static/js/runtime-main.1763f0b6.js.map",
-    "static/js/2.8c5fb647.chunk.js": "/perisrai.github.io/static/js/2.8c5fb647.chunk.js",
-    "static/js/2.8c5fb647.chunk.js.map": "/perisrai.github.io/static/js/2.8c5fb647.chunk.js.map",
-    "static/js/3.2a720f23.chunk.js": "/perisrai.github.io/static/js/3.2a720f23.chunk.js",
-    "static/js/3.2a720f23.chunk.js.map": "/perisrai.github.io/static/js/3.2a720f23.chunk.js.map",
+    "main.css": "/perisrai.github.io/static/css/main.e545affd.chunk.css",
+    "main.js": "/perisrai.github.io/static/js/main.ba8fb327.chunk.js",
+    "main.js.map": "/perisrai.github.io/static/js/main.ba8fb327.chunk.js.map",
+    "runtime-main.js": "/perisrai.github.io/static/js/runtime-main.b4faf7b4.js",
+    "runtime-main.js.map": "/perisrai.github.io/static/js/runtime-main.b4faf7b4.js.map",
+    "static/js/2.ebe34254.chunk.js": "/perisrai.github.io/static/js/2.ebe34254.chunk.js",
+    "static/js/2.ebe34254.chunk.js.map": "/perisrai.github.io/static/js/2.ebe34254.chunk.js.map",
     "index.html": "/perisrai.github.io/index.html",
-    "static/css/main.7d180cbf.chunk.css.map": "/perisrai.github.io/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.8c5fb647.chunk.js.LICENSE.txt": "/perisrai.github.io/static/js/2.8c5fb647.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/perisrai.github.io/static/media/logo.6ce24c58.svg"
+    "static/css/main.e545affd.chunk.css.map": "/perisrai.github.io/static/css/main.e545affd.chunk.css.map",
+    "static/js/2.ebe34254.chunk.js.LICENSE.txt": "/perisrai.github.io/static/js/2.ebe34254.chunk.js.LICENSE.txt",
+    "static/media/logow.fa9abebb.webp": "/perisrai.github.io/static/media/logow.fa9abebb.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.1763f0b6.js",
-    "static/js/2.8c5fb647.chunk.js",
-    "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.b88ce0cf.chunk.js"
+    "static/js/runtime-main.b4faf7b4.js",
+    "static/js/2.ebe34254.chunk.js",
+    "static/css/main.e545affd.chunk.css",
+    "static/js/main.ba8fb327.chunk.js"
   ]
 }
