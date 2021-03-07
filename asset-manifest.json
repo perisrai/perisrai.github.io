@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/perisrai.github.io/static/css/main.c5e8b34f.chunk.css",
-    "main.js": "/perisrai.github.io/static/js/main.ff95d8ef.chunk.js",
-    "main.js.map": "/perisrai.github.io/static/js/main.ff95d8ef.chunk.js.map",
+    "main.css": "/perisrai.github.io/static/css/main.ab1ced67.chunk.css",
+    "main.js": "/perisrai.github.io/static/js/main.7e2be44e.chunk.js",
+    "main.js.map": "/perisrai.github.io/static/js/main.7e2be44e.chunk.js.map",
     "runtime-main.js": "/perisrai.github.io/static/js/runtime-main.b4faf7b4.js",
     "runtime-main.js.map": "/perisrai.github.io/static/js/runtime-main.b4faf7b4.js.map",
-    "static/js/2.8afeaccd.chunk.js": "/perisrai.github.io/static/js/2.8afeaccd.chunk.js",
-    "static/js/2.8afeaccd.chunk.js.map": "/perisrai.github.io/static/js/2.8afeaccd.chunk.js.map",
+    "static/js/2.04addef3.chunk.js": "/perisrai.github.io/static/js/2.04addef3.chunk.js",
+    "static/js/2.04addef3.chunk.js.map": "/perisrai.github.io/static/js/2.04addef3.chunk.js.map",
     "index.html": "/perisrai.github.io/index.html",
-    "static/css/main.c5e8b34f.chunk.css.map": "/perisrai.github.io/static/css/main.c5e8b34f.chunk.css.map",
-    "static/js/2.8afeaccd.chunk.js.LICENSE.txt": "/perisrai.github.io/static/js/2.8afeaccd.chunk.js.LICENSE.txt",
+    "static/css/main.ab1ced67.chunk.css.map": "/perisrai.github.io/static/css/main.ab1ced67.chunk.css.map",
+    "static/js/2.04addef3.chunk.js.LICENSE.txt": "/perisrai.github.io/static/js/2.04addef3.chunk.js.LICENSE.txt",
+    "static/media/background.241e44c9.webp": "/perisrai.github.io/static/media/background.241e44c9.webp",
     "static/media/logow.fa9abebb.webp": "/perisrai.github.io/static/media/logow.fa9abebb.webp",
+    "static/media/profile.7b3fc7b1.webp": "/perisrai.github.io/static/media/profile.7b3fc7b1.webp",
     "static/media/slide1.14619b04.webp": "/perisrai.github.io/static/media/slide1.14619b04.webp",
     "static/media/slide2.d58e7971.webp": "/perisrai.github.io/static/media/slide2.d58e7971.webp",
     "static/media/slide3.ea32b5ab.webp": "/perisrai.github.io/static/media/slide3.ea32b5ab.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.b4faf7b4.js",
-    "static/js/2.8afeaccd.chunk.js",
-    "static/css/main.c5e8b34f.chunk.css",
-    "static/js/main.ff95d8ef.chunk.js"
+    "static/js/2.04addef3.chunk.js",
+    "static/css/main.ab1ced67.chunk.css",
+    "static/js/main.7e2be44e.chunk.js"
   ]
 }
