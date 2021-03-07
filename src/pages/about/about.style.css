@@ -1,0 +1,28 @@
+.about {
+  background-color: transparent;
+  font-size: 1.1em;
+}
+
+.profile {
+  max-width: 18em;
+}
+
+.my-details {
+  background-color: rgba(255, 255, 255, 0.747);
+}
+
+.btn-group {
+  background-color: #222222;
+  border-radius: 0 0 0.25rem 0.25rem;
+}
+
+.btn-outline-dark {
+  color: darkgrey;
+  border-color: darkgray;
+}
+
+.btn-outline-dark:hover,
+:focus,
+:active {
+  color: white;
+}
