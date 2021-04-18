@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/perisrai.github.io/static/css/main.ab1ced67.chunk.css",
-    "main.js": "/perisrai.github.io/static/js/main.44bccc6e.chunk.js",
-    "main.js.map": "/perisrai.github.io/static/js/main.44bccc6e.chunk.js.map",
+    "main.js": "/perisrai.github.io/static/js/main.6f515ac2.chunk.js",
+    "main.js.map": "/perisrai.github.io/static/js/main.6f515ac2.chunk.js.map",
     "runtime-main.js": "/perisrai.github.io/static/js/runtime-main.b4faf7b4.js",
     "runtime-main.js.map": "/perisrai.github.io/static/js/runtime-main.b4faf7b4.js.map",
     "static/js/2.04addef3.chunk.js": "/perisrai.github.io/static/js/2.04addef3.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.b4faf7b4.js",
     "static/js/2.04addef3.chunk.js",
     "static/css/main.ab1ced67.chunk.css",
-    "static/js/main.44bccc6e.chunk.js"
+    "static/js/main.6f515ac2.chunk.js"
   ]
 }
