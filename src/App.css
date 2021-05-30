@@ -1,3 +1,14 @@
+@import url("https://emoji-css.afeld.me/emoji.css");
+
+@font-face {
+  font-family: "Pattaya";
+  src: url(assets/fonts/Pattaya-Regular.ttf);
+}
+
+body {
+  font-family: "Pattaya";
+}
+
 hr {
   border: 0;
   height: 1px;

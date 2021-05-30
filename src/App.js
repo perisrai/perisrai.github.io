@@ -1,5 +1,5 @@
 import React from "react";
-import Home from "components/new/home";
+import Home from "components/home/home";
 
 import "./App.css";
 
