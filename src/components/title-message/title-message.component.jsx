@@ -23,6 +23,9 @@ const MyTitleMessage = styled.h1`
     .sub {
       font-size: 27px;
       letter-spacing: 2px;
+      width: 1000px;
+      margin: 0 auto;
+      padding-left: 26%;
     }
   }
 `;
@@ -30,23 +33,26 @@ const MyTitleMessage = styled.h1`
 const TitleMessage = () => {
   return (
     <MyTitleMessage>
-      <div className="titleMessage">
-        <div className="heading">
-          <div className="main text-center mb-3">
-            Hi, I am
-            <br />
+      <div className='titleMessage'>
+        <div className='heading'>
+          <div className='main text-center mb-3'>
             <span>
-              <strong>Peris Rai</strong>
+              <strong>
+                {/* Hello
+                <br />
+                World!! */}
+                <Typewriter
+                  options={{
+                    strings: ["Hello World!!"],
+                    autoStart: true,
+                    loop: true,
+                  }}
+                />
+              </strong>
             </span>
           </div>
-          <div className="sub">
-            <Typewriter
-              options={{
-                strings: ["Web Developer", "Learner"],
-                autoStart: true,
-                loop: true,
-              }}
-            />
+          <div className='sub'>
+            <p>I'm Peris Rai, a full stack web developer.</p>
           </div>
         </div>
       </div>
